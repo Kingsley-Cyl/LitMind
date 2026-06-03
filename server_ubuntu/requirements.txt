@@ -1,0 +1,11 @@
+fastapi>=0.110
+uvicorn>=0.30
+pydantic>=2.6
+python-multipart>=0.0.9
+numpy>=1.24
+PyMuPDF>=1.24
+requests>=2.31
+keybert>=0.8
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+scikit-learn>=1.4

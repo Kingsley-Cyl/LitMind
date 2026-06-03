@@ -1,0 +1,2 @@
+"""LitMind FastAPI server package."""
+

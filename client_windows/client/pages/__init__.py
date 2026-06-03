@@ -1,0 +1,2 @@
+"""GUI pages for LitMind."""
+

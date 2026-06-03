@@ -1,0 +1,2 @@
+"""LitMind Windows client package."""
+
